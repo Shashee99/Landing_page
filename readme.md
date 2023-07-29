@@ -1,9 +1,9 @@
-# h1 Tailwind CSS Project
+# Tailwind CSS Project
 This project is implemented using html and tailwind CSS in order to get hands on experience with the tailwind CSS.
 
-# h2 Install 
+## Install 
 npm i
-# h2 build
+## build
 npm run build
-# h2 run 
+## run 
 npm run watch
